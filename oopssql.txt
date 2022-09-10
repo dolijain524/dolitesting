@@ -1,0 +1,68 @@
+OOPS : Object Oriented Programming Systems :  black box testing,
+==============================================
+1) class : is an collection of data member(variable) and member function (process, methods) with its behavior .....
+
+
+2) object : instances of an class 
+	:to create memory for the class
+	:to access whole the properties of an class except private
+
+3) encapsulation : data hiding : wrapping up of data into single unit
+	:private your data member and membr function
+
+4) inheritance : properties of parent class derived into child class
+	:properties of super class extends into sub class
+	:main purpose is : reusablity , extendsiblity
+	:there are 5 types of 
+	1) single
+	2) multilevel
+	3) hierarchical
+	4) multiple : java does not support
+	5) hybrid: java does not support
+
+5) polymorphism  :ability to take one name having different forms 
+	:many forms or multiple forms
+	there are 2 types
+	1) compile time (Method overloading) 
+	2) Run time (method overriding)
+
+6) abstraction : data hiding : only essential part should be display and rest of the part will be hide i.e.
+==================================================================
+SQL :  Structured Query Language: to storing in permenent medium
+--------------------------------	 
+mysql,oracle, sql server, postgrey sql etc......
+	: is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS)
+--------------------
+Data : collection of information
+
+Database :A database is a systematic collection of data. They support electronically storage and manipulation of data.
+
+DBMS (DataBase Management System) : is a collection of programs that enable its users to access databases, manipulate data, report, and represent data. 
+
+RDBMS (Relational DataBase Management System): The software used to store, manage, query, and retrieve data stored in a relational database is called a relational database management system (RDBMS). The RDBMS provides an interface between users and applications and the database.
+===========================================================
+SQL Commands:
+=============
+1) DDL : Data Definitaion Lang.
+		: create table, create database, use, truncate etc...
+2) DML : Data Manipulation Lang
+	:insert, update, delete
+3) DQL : Data Query Lang.	
+		:select
+4) DCL/TCL : Data/Trasactional Control Lang
+	:commit, rollback, grant , etc..
+
+===============================
+Constraints : 
+1) primary key : not null + unique : 
+2) foreign key : its depends on primary key tables 
+3) unique key : all value must be unique not repeating
+4) not null : not to be blank
+5) check : if you want to check any condition on query time
+6) default :value fixed
+7) index : if you serach anything but want to do indexing 
+==================================================================
+
+
+
+
